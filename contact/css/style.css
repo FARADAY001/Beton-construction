@@ -1,0 +1,156 @@
+body
+{
+    font-family: 'Lato', sans-serif;
+    margin: 70px 0px;
+    background-image: -webkit-linear-gradient(400deg, #faa61f 0%, #ed1847 100%);
+}
+.divider
+{
+    width:100px;
+    height: 2px;
+    background: #fff;
+    margin: 0 auto;
+}
+.heading 
+{
+    text-align: center;
+    margin-bottom: 60px;        
+}
+h2
+{
+    text-transform: uppercase;
+    font-weight:bold;
+    color: #fff;
+}
+#contact-form
+{
+    font-size: 20px;
+    background-image: linear-gradient(rgba(1,5,7,0.9),rgba(0,0,0,0.5)), url(../image/services-2.jpg);
+    padding: 40px;
+    border-radius: 10px;
+}
+/*---  NEW  ------*/
+.red
+{
+    color: #ed1847;
+}
+.blue
+{
+    color: #0069d6;
+}
+.form-control
+{
+    height: 50px;
+    font-size: 18px;
+}
+#contact-form input[type=submit]
+{
+    margin: 40px auto 0px;
+    display: block;
+}
+.comments
+{
+    font-style: italic;
+    font-size: 18px;
+    color: #d82c2e;
+    height: 25px
+}
+#contact-form .thank-you
+{
+    color: #ed1847;
+    text-align: center;
+    margin-top: 15px;
+    font-weight: bold;
+    font-size: 22px;
+}
+.button1
+{
+    padding: 15px 25px;
+    border: 3px  #ed1847;
+    background-color: #ed1847;
+    color: #fff;
+    width: 100%;        
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 18px;
+    border-radius: 5px;
+    transition: all 0.3s ease-in 0s;
+}
+.button1:hover
+{
+    background-color: #faa61f;
+    transition: 1.5s;
+    border:  #faa61f;
+}
+form label
+{
+    color: white;
+}
+#contact-form input
+{
+    background: transparent;
+    border: 0;
+    border-bottom: 2px solid white;
+    padding: 5px;
+    width: 100%;
+    color: white;
+    outline: none;
+    font-size: 20px;
+}
+
+#contact-form textarea
+{
+    background: transparent;
+    border: 0;
+    border-bottom: 2px solid white;
+    padding: 5px;
+    width: 100%;
+    color: white;
+    outline: none;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
